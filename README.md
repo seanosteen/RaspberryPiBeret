@@ -16,4 +16,4 @@ This code takes advantage of the dual M0+ cores of the Raspberry Pi RP2040 chips
 
 ## Thank yous:
 * Alasdair Allan and his amazing Pico W [webserver tutorial](https://tnkr.in/5mo)
-* Bob over at Bytes n' bits with his tutorial on [multithreading on PICO](https://tnkr.in/5mo)
+* Bob over at Bytes n' bits with his tutorial on [multithreading on PICO](https://tnkr.in/5mp)
