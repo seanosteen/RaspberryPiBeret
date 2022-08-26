@@ -1,10 +1,5 @@
-# a PICO W powered drag race "Chistmas Tree" designed to be used at Pinewood Derbies.
-# Created at Maker Alliance Summer Camp, on August 4, 2022 in Elizabethtown, Kentucky.
-# Software and hardware were donated to a local Cub Scout pack at the end of Camp.
-# Software is provided as-is and without warranty
-# Contributors:
-#  Sean O'Steen - @TinkeringRocks - sean@tinkeringrocks.com
-#  Halbert Walston - halbert.walston@gmail.com
+# Multithreaded Neopixel animations and web server to run on a Raspberry Pi
+# PICO W and Micropythin 1.19.1 or newer.
 #
 import utime, array
 from machine import Pin
