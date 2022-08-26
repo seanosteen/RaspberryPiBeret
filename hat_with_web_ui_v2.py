@@ -188,7 +188,7 @@ def ws_thread(s):
     
     html = """<!DOCTYPE html>
     <html>
-        <head> <title>Pinewood Derby Start Lights</title>
+        <head> <title>Raspberry Pi  Beret Controls</title>
         <style>
             body { background-color: #E30B5D; }
             .link {
