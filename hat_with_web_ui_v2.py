@@ -1,5 +1,5 @@
 # Multithreaded Neopixel animations and web server to run on a Raspberry Pi
-# PICO W and Micropythin 1.19.1 or newer.
+# PICO W and Micropython 1.19.1 or newer.
 #
 import utime, array
 from machine import Pin
